@@ -17,7 +17,28 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<div align="left">
+<br>🔭 I'm currently working on: **Building full-stack web applications and AI-powered projects.**<br>
+
+👯 I'm looking to collaborate on: **Open-source projects, full-stack web development, and AI-powered applications.**
+
+🤝 I'm looking for help with: **Advanced backend development, system design, and AI/LLM integration.**
+
+🌱 I'm currently learning: **Data Structures and Algorithms (C++), Next.js, and AI/LLM technologies.**
+
+💬 Ask me about: **C++, Python, JavaScript, React, Node.js, Express.js, MongoDB, JWT Authentication, and Role-Based Access Control (RBAC).**
+
+⚡ Fun fact: **I love turning ideas into real-world applications and learning new technologies by building projects.**
+</div>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/piyushkumar0707/piyushkumar0707/output/snake.svg" alt="Contribution Snake" />
+
+</div>
+
 
 
 ## 🌐 Socials:
